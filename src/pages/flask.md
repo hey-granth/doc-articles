@@ -31,6 +31,8 @@ which is too difficult to do, unless you have the actual passwords.
 
 
 ### **Module**
+
+
 A module is a single Python file containing code like functions, classes, or variables.
 
 #### Example:
@@ -180,7 +182,14 @@ Flask Blueprints are a way to organize and structure a Flask application into sm
 
 ### Why Use Blueprints?
 - **Modular Code**: Helps keep your application code clean and organized.
-- **Reusability**: You can reuse blueprints across different projects.
+- **Reusability**: You can reuse blueprints across different projects.in]
+  git add ./
+  ~/WebstormProjects/doc-articles git:[main]
+  git commit -m "added flask notes"
+  [main 8a82b5c] added flask notes
+  2 files changed, 248 insertions(+)
+  create mode 100644 src/pages/flask.md
+  create mode 100644 src/pages/modal.png
 - **Collaboration**: Makes it easier for multiple developers to work on different parts of the app.
 
 ### How Do Blueprints Work?
